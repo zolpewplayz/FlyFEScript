@@ -1,6 +1,6 @@
 game:GetService("StarterGui"):SetCore("SendNotification",{
-                Title = "Credits";
-                Text = "Sub To Zolpew Playz";
+                Title = "Credits to owner not zolpew";
+                Text = "Modded by Zolpew Playz";
                 Duration = 3.5;
             })
 -- Gui to Lua
